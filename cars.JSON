@@ -1,0 +1,67 @@
+[{
+        "description": "A phenomenal experience it was. In love with the visuals. For me gameplay is 10/10. A master piece created by RockStar",
+        "id": 1,
+        "name": "Tesla Model S",
+        "price": 50000,
+        "img": "https://media.ed.edmunds-media.com/tesla/model-s/2019/oem/2019_tesla_model-s_sedan_performance_fq_oem_7_1600x1067.jpg",
+        "rating": 5,
+        "ElectricMotor": "Front and rear motor combined output up to 615 kW (825 bhp), 1,300 N⋅m (960 lb⋅ft), 3-phase AC induction motor",
+        "Transmission": "1-speed fixed gear ratio (9.734:1 or 9.325:1); direct-drive",
+        "Battery": "100 kWh lithium ion Discontinued: 60 (40), 70, 75, 85 and 90 kWh lithium ion"
+    },
+    {
+        "description": "Man i think i died thousnand times or above in this game but something of this game gives me the currage not to give up. Loved it. Great work by FromSoftware",
+        "id": 2,
+        "name": "Tesla Model S plaid",
+        "price": 90000,
+        "img": "https://media.evo.co.uk/image/private/s--sOV4NXzd--/f_auto,t_content-image-full-desktop@1/v1623418450/evo/2021/06/Tesla%20Model%20S%20Plaid%20front%20track.jpg",
+        "rating": 4.8,
+        "ElectricMotor": "Front and rear motor combined output up to 615 kW (825 bhp), 1,300 N⋅m (960 lb⋅ft), 3-phase AC induction motor",
+        "Transmission": "1-speed fixed gear ratio (9.734:1 or 9.325:1); direct-drive",
+        "Battery": "100 kWh lithium ion Discontinued: 60 (40), 70, 75, 85 and 90 kWh lithium ion"
+    },
+    {
+        "description": "Man i think i died thousnand times or above in this game but something of this game gives me the currage not to give up. Loved it. Great work by FromSoftware",
+        "id": 3,
+        "name": "Tesla Model 3",
+        "price": 35000,
+        "img": "https://media.ed.edmunds-media.com/tesla/model-3/2022/oem/2022_tesla_model-3_sedan_performance_fq_oem_4_815x543.jpg",
+        "rating": 5,
+        "ElectricMotor": "Standard Range RWD : 3,552 lb (1,611 kg) Standard Range plus RWD : 3,627 lb (1,645 kg) Mid Range RWD: 3,686 lb (1,672 kg)",
+        "Transmission": "Long Range RWD: 3,814 lb (1,730 kg)",
+        "Battery": "Long-Range Dual-Motor AWD (including Performance): 4,072 lb (1,847 kg)"
+    },
+    {
+        "description": "Yeah the might elden rign and i love this. So far one of the best game offered by FromSoftware. Gameplay, story, visuals everything top-notch",
+        "id": 4,
+        "name": "Tesla Model X",
+        "price": 70000,
+        "img": "https://media.gettyimages.com/photos/tesla-model-x-is-displayed-during-the-citi-taste-of-tennis-at-hyatt-picture-id927835614?k=20&m=927835614&s=612x612&w=0&h=3JoF_YgK0AH_exo6XwepCOzfzz98JfdhyU15sns5Y5I=",
+        "rating": 5,
+        "ElectricMotor": "Dual Motor AWD 60D, 75D, 90D, 100D 259 hp (193 kW) front and rear P90D, P100D 259 hp (193 kW) front, 503 hp (375 kW) rear",
+        "Transmission": "Single-speed transaxle gearboxes 60D, 75D, 90D, 100D: 9.34:1 front. 9.34:1 rear P90D, P100D: 9.34:1 front, 9.73:1 rear",
+        "Battery": "100 kWh lithium ion Discontinued: 60 (40), 70, 75, 85 and 90 kWh lithium ion"
+    },
+    {
+        "description": "Best racing game out there, PERIOD!!. Everything was heavenly",
+        "id": 5,
+        "name": "Tesla Model Y",
+        "price": 60000,
+        "img": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tesla/Tesla-Model-Y/6396/1552894185017/front-left-side-47.jpg",
+        "rating": 4.7,
+        "ElectricMotor": "Front and rear motor combined output up to 615 kW (825 bhp), 1,300 N⋅m (960 lb⋅ft), 3-phase AC induction motor",
+        "Transmission": "1-speed fixed gear ratio (9.734:1 or 9.325:1); direct-drive",
+        "Battery": "100 kWh lithium ion Discontinued: 60 (40), 70, 75, 85 and 90 kWh lithium ion"
+    },
+    {
+        "description": "One of the best games i have played in my entire life. The story made me go brrrr",
+        "id": 6,
+        "name": "Tesla Roadster",
+        "price": 120000,
+        "img": "https://s3-prod.autonews.com/s3fs-public/54ROADSTER-MAIN_i.jpg",
+        "rating": 4.5,
+        "ElectricMotor": "Front and rear motor combined output up to 615 kW (825 bhp), 1,300 N⋅m (960 lb⋅ft), 3-phase AC induction motor",
+        "Transmission": "1-speed fixed gear ratio (9.734:1 or 9.325:1); direct-drive",
+        "Battery": "100 kWh lithium ion Discontinued: 60 (40), 70, 75, 85 and 90 kWh lithium ion"
+    }
+]
